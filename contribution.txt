@@ -1,0 +1,2 @@
+Name: Vaibhav Chawla
+Idea: Improve documentation by adding more examples and explanations for beginners.
