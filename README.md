@@ -1,6 +1,6 @@
 # SCMF
 
-## Description
+## Description not
 SCMF (Short description of what the project does).
 
 ## How to Run
