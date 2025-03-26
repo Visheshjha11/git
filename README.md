@@ -1,5 +1,5 @@
 [200~SCMF
-Description
+Description o
 SCMF (Short description of what the project does).
 
 How to Run~
